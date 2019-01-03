@@ -2,7 +2,7 @@
 This project demonstrates a simple Star Notary Service using NodeJS, Express and LevelDB. This project was completed to fulfil the requirements of Project 4 of the [Udacity Blockchain Developer Nanodegree](https://eu.udacity.com/course/blockchain-developer-nanodegree--nd1309).
 
 ### Requirements
-* [Yarn: 1.10.1](https://yarnpkg.org)
+* [Yarn: 1.12.3](https://yarnpkg.org)
 * [express](https://www.express.com)
 * [LevelDB](http://https://github.com/google/leveldb)
 
